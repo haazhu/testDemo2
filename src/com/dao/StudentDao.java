@@ -10,4 +10,6 @@ public interface StudentDao {
 
     List<Student> select();
 
+    int delete();
+
 }
