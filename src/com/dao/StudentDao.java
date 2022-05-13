@@ -13,5 +13,8 @@ public interface StudentDao {
     int delete();
 
     String ddddd();
+    String ddddd();
+    String ddddd();
+    String ddddd();
 
 }
